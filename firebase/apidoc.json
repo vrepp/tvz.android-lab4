@@ -1,0 +1,10 @@
+{
+    "name": "Edoe Firebase API",
+    "version": "0.2.0",
+    "description": "Edoe app Firebase API description",
+    "title": "Edoe Firebase API",
+    "url": "https://us-central1-tvz-rep.cloudfunctions.net/api/v1",
+    "order": [
+        "Beers"
+    ]
+}

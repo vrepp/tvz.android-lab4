@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514956694397",
+    "firebase_url": "https://tvz-vrep.firebaseio.com",
+    "project_id": "tvz-vrep",
+    "storage_bucket": "tvz-vrep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514956694397:android:8481a3278951abe3",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.mvprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514956694397-07e1cu19rq4p8voqsphhufrjlhkodvpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3YMe_CC4UlLXH7ROoCcN0C-A6kSNegLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514956694397-07e1cu19rq4p8voqsphhufrjlhkodvpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

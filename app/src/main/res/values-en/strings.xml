@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MVPRep</string>
+    <string name="title_activity_details" translatable="false">Details</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_open_url">Open</string>
+    <string name="title_activity_image">Image</string>
+    <string name="menu_home">List</string>
+</resources>

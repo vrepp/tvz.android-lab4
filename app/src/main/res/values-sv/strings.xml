@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MVPRep</string>
+    <string name="title_activity_details" translatable="false">Detaljer</string>
+    <string name="menu_share">Dela</string>
+    <string name="menu_open_url">Öppna</string>
+    <string name="title_activity_image">Bild</string>
+    <string name="menu_home">Lista</string>
+</resources>
